@@ -4,6 +4,44 @@
     grid-gap: .5rem;
     padding: 10px;
 }
-li{
-    margin-left: 8%;
+
+a{
+    padding-left: 40px;
+    color black;
+    font-weight: 700;
+}
+
+#moon-color{
+    color: #76C27E;
+}
+
+.moon-bold h1{
+    color: #363958;
+    font-weight: 700;
+}
+.buy-btn{
+    background-color: #2A1E59;
+    color: white;
+}
+
+#margin{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-weight: 700;
+}
+i{
+    color: #F7A300;
+}
+.footer{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #2A1E59 !important;  
+}
+.footer i{
+    color: #4DABF7 !important; 
+}
+.footer a{
+    margin: 0% !important; 
+    padding: 0% !important;
 }
